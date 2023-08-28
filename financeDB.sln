@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "financeDB", "financeDB.sqlproj", "{AAB0778C-F53C-48F8-A27B-F0A127FE183B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB0778C-F53C-48F8-A27B-F0A127FE183B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF08C57-E54B-4CB2-B507-F153D416DEC9}
+	EndGlobalSection
+EndGlobal
